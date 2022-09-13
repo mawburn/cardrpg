@@ -6,10 +6,16 @@
 # Human Cards
 
 **Base Layout (hopefully)**
-- 25% Passive
-- 25% Moves
-- 25% Spells
-- 25% Modifiers
+- 50% Passive
+- 20% Moves
+- 20% Spells
+- 10% Modifiers
+
+Current (1-54)
+32% Passive
+16% Moves
+0% Spells
+7% Modifiers
 
 ## 1-5
 
@@ -107,6 +113,31 @@
 - Bonus: Any weapon that requires Dexterity can perform an extra action during the player's turn
 - Type: Move - Cooldown -> 2 Rounds
 
+## 45-49
+
+* Name: Slash
+* Bonus: +2 Damage using a bladed weapon
+* Type: Move - Cooldown -> 1 Round
+
+## 50-52
+
+* Name: Ripost
+* Bonus: While weilding any weapon, the character may strike back at a failed attack if the enemy making the attack is within range.
+* Type: Move - Cooldown -> 1 Round
+
+## 53-54
+
+* Name: Get back here
+* Bonus: If weilding a melee weapon, strike an enemy trying to disengage from melee combat. If successful, the enemy does not disengage.
+* Type: Move - Cooldown -> 3 Rounds
+
+## 55
+
+* Name: Striker
+* Bonus: If weilding a weapon, one of 2 things can happen. 
+	* If the character's Strength is higher than their Dexterity, deal +4 damage on a hit with a weapon. 
+	* If the character's Dexterity is higher than their Strength, strike 3 times at once.
+* Type: Move - Cooldown -> 5 Rounds
 ---
 
 TBD to 100
