@@ -7,9 +7,9 @@
 
 As stated in [[Mechanics/Character Creation, Levels, Advancing|Character Creation, Levels, Advancing]], players may assign a single die type to 1 attribute. So these skills are completely separated from [[Mechanics/Attributes|Attributes]]. They represent your character and their personal growth, not how good they are at fighting monsters or evil warlords.
 
-Skills are meant for the RP aspects of the game only. Combat has it's own rules and exists outside of the type of RP that would be useful for these skills.
+Skills are more or less tags that represent your character and are meant for the RP aspects of the game only. Combat has its own rules and exists outside of the type of RP that would be useful for these skills.
 
-That does not mean they can not have mechanical benefits, however. One can avoid a fight using Persuasion or Intimidation for instance. Maybe you come across a shop, Merchant could score you that epic card you're looking for.
+That does not mean they can not have mechanical benefits within the fiction, however. One can avoid a fight using Persuasion or Intimidation for instance. Maybe you come across a shop, the Merchant skill could score you that epic card you're looking for.
 
 - Merchant
 - Persuasive
