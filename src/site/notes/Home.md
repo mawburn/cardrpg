@@ -33,4 +33,4 @@ Monsters in the world will also have card types, but a much more limited set bas
 
 Gear will also play an important part in the game. 
 
-I have not decided on a solid setting yet, which means I'm not sure if Modern or SciFi weaponry will be allowed, but I'm leaning on no. Magitech only. 
+I have not decided on a solid setting yet, which means I'm not sure if Modern or SciFi weaponry will be allowed, but I'm leaning on no. Magitech only probably.
