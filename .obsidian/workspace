@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "95429ace64ca2cb6",
   "lastOpenFiles": [
+    "Home.md",
     "Mechanics/Species Rules.md",
     "Mechanics/Skills.md",
     "Mechanics/Combat.md",
@@ -130,7 +131,6 @@
     "Mechanics/Basic Combat Moves.md",
     "Mechanics/Attributes.md",
     "Species/Human/Cards.md",
-    "Species/Human/Human.md",
-    "Home.md"
+    "Species/Human/Human.md"
   ]
 }
