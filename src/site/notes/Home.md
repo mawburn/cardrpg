@@ -11,7 +11,7 @@ Currently just a working title. This is very much a WIP.
 
 * [[Mechanics/Attributes|Attributes]]
 * [[Mechanics/Skills|Skills]]
-* [[Mechanics/Character Creation, Levels, & Advance|Character Creation, Levels, & Advance]]
+* [[Mechanics/Character Creation, Levels, Advancing|Character Creation, Levels, Advancing]]
 * [[Mechanics/Combat|Combat]]
 
 ## Playtest Species
