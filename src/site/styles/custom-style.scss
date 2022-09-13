@@ -1,13 +1,11 @@
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+html,
+body,
+.content {
+  font-size: 16px;
+}
+
+a,
+a:any-link {
+  text-decoration: none;
+  color: var(--text-accent);
 }
