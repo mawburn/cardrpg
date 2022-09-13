@@ -5,7 +5,7 @@
 
 # Skill Overview
 
-As stated in [Character Creation, Levels, & Advance](./Character%20Creation%2C%20Levels%2C%20%26%20Advance.md), players may assign a single die type to 1 attribute. So these skills are completely separated from [Attributes](./Attributes.md). They represent your character and their personal growth, not how good they are at fighting monsters or evil warlords.
+As stated in [[Mechanics/Character Creation, Levels, & Advance|Character Creation, Levels, & Advance]], players may assign a single die type to 1 attribute. So these skills are completely separated from [[Mechanics/Attributes|Attributes]]. They represent your character and their personal growth, not how good they are at fighting monsters or evil warlords.
 
 Skills are meant for the RP aspects of the game only. Combat has it's own rules and exists outside of the type of RP that would be useful for these skills.
 
