@@ -1,0 +1,27 @@
+{
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-wikilink",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:insert-embed",
+    "editor:set-heading",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-italics",
+    "editor:toggle-blockquote",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bold",
+    "editor:toggle-checklist-status",
+    "editor:toggle-strikethrough",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:undo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:redo"
+  ],
+  "communityPluginSortOrder": "download",
+  "alwaysUpdateLinks": true
+}

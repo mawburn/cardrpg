@@ -1,0 +1,15 @@
+{
+  "githubRepo": "cardrpg",
+  "githubToken": "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",
+  "githubUserName": "mawburn",
+  "gardenBaseUrl": "cardpower.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"Dark Graphite\",\"author\":\"bernardo_v\",\"repo\":\"bcdavasconcelos/Obsidian-Graphite\",\"screenshot\":\"graphite.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/bcdavasconcelos/Obsidian-Graphite/master/obsidian.css\"}",
+  "baseTheme": "dark",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}
