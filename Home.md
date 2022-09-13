@@ -27,7 +27,7 @@ There will be MANY different species and each one will have their own set of car
 
 Cards are not limited to be used by any certain species, but when a species levels up they only recieve free new cards from their species card table.
 
-_Technically_, the setting will be post apocalyptic, but not in the traditional sense. Something, be it Gods/Aliens/a Tear in Space Time/etc will wipe out most of the dominate species on the planet and give a card to each member left from that world a card. This will probably have happened far in the past and species will be able to world hop, encountering an entirely new planet with entirely new dangers.
+_Technically_, the setting will be post apocalyptic, but not in the traditional sense. Something, be it Gods/Aliens/Tear in Space Time/etc will wipe out most of the dominate species on the planet and give a card to each member left from that world a card. This will probably have happened far in the past and species will be able to world hop, encountering an entirely new planet with entirely new dangers.
 
 Monsters in the world will also have card types, but a much more limited set based on the type of monster. Every monster killed will drop at least 1 card. This can be equipped by the player.
 
