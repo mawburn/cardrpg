@@ -1,17 +1,9 @@
-# Card RPG
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-Working Title: Power Cards (but this will probably change)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
 
-This is very much a WIP.
-
-## Currently these are the only files to be considered
-
-- [Attributes](./Mechanics/Attributes.md)
-- [Skills](./Mechanics/Skills.md)
-- [Character Creation, Levels, & Advance](./Mechanics/Character%20Creation%2C%20Levels%2C%20%26%20Advance.md)
-- [Combat](./Mechanics/Combat.md)
-
-## Playtest Species
-
-- [Human](Human.md)
-  - [Human Cards](./Species/Human/Cards.md)
+---
+## Custom Styling
+I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
