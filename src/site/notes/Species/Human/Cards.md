@@ -11,11 +11,11 @@
 - 20% Spells
 - 10% Modifiers
 
-Current (1-54)
+Current (1-69)
 32% Passive
-16% Moves
-0% Spells
-7% Modifiers
+17% Moves
+11% Spells
+10% Modifiers
 
 ## 1-5
 
@@ -117,18 +117,21 @@ Current (1-54)
 
 * Name: Slash
 * Bonus: +2 Damage using a bladed weapon
+* Requirements: Bladed Weapon
 * Type: Move - Cooldown -> 1 Round
 
 ## 50-52
 
 * Name: Ripost
 * Bonus: While weilding any weapon, the character may strike back at a failed attack if the enemy making the attack is within range.
+* Requirements: Dexterity 2
 * Type: Move - Cooldown -> 1 Round
 
 ## 53-54
 
 * Name: Get back here
 * Bonus: If weilding a melee weapon, strike an enemy trying to disengage from melee combat. If successful, the enemy does not disengage.
+* Requirements: Dexterity 4
 * Type: Move - Cooldown -> 3 Rounds
 
 ## 55
@@ -136,8 +139,60 @@ Current (1-54)
 * Name: Striker
 * Bonus: If weilding a weapon, one of 2 things can happen. 
 	* If the character's Strength is higher than their Dexterity, deal +4 damage on a hit with a weapon. 
-	* If the character's Dexterity is higher than their Strength, strike 3 times at once.
+	* If the character's Dexterity is higher than their Strength, strike 3 times at once
+* Requirements: Strength 2 or Dexterity 2
 * Type: Move - Cooldown -> 5 Rounds
+
+## 56-60
+
+* Name: Energy Ball
+* Bonus: Casts a concentrated ball of energy at the enemy, dealing 2 damage.
+* Requirements: Intelligence 2
+* Type: Spell - Cooldown -> 2 Rounds
+
+## 61-63
+
+* Name: Earthen Wall
+* Bonus: Creates a wall with 15hp, 10 meters wide and 10 meters tall within 50 meters of the caster.
+* Requirement: Intelligence 3
+* Type: Spell - Cooldown -> 5 Rounds
+
+## 64-65
+
+* Name: Ice Bolt
+* Bonus: Creates a bolt made of ice that strikes the enemy for 5 damage
+* Requirement: Intelligence 4
+* Type: Spell - Cooldown -> 2 Rounds
+
+## 66
+
+* Name: Teleport
+* Bonus: Instantly move up to character's move pace. Any cards that may attaack the user when disengaging do not have an effect. This also does not count as the character's move action.
+* Requirement: Intelligence 6
+* Type: Spell - Cooldown -> 5 Rounds
+
+## 67
+
+* Name: Mage
+* Bonus: Increase the damage of any damage spell by 50% rounded up. For example if the character casts a spell that does 5 damage, then they do 8 instead.
+* Requirements: Intelligence 4
+* Type: Modifier
+
+## 68
+
+* Name: Refresh
+* Bonus: Reduce the cooldown of any spell that has a cooldown of 5 or more by 1.
+* Type: Modifier
+
+## 69
+
+* Name: Royalty
+* Bonus: Reduce the result of the enemey's mental saving throw by 2.
+* Requirements: Charisma 3
+* Type: Modifier
+
+
+
 ---
 
 TBD to 100
