@@ -72,8 +72,7 @@ div.callout-note,
 
 div.language-ad-note .admonition-title,
 div.callout-note .admonition-title {
-  background-color: #77a1d9;
-  color: #222;
+  background-color: transparent;
 
   &::before {
     content: "";
