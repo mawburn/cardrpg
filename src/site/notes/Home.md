@@ -7,11 +7,13 @@
 
 Currently just a working title. This is very much a WIP.
 
+If you're reading this, then you are reading my raw notes published through an [Obsidian](https://obsidian.md) plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). Some of my notes are not published, but most are.
+
 ## Currently only these parts should be considered
 
 * [[Mechanics/Attributes|Attributes]]
 * [[Mechanics/Skills|Skills]]
-* [[Mechanics/Character Creation, Levels, Advancing|Character Creation, Levels, Advancing]]
+* [[Mechanics/Character Creation Advancing|Character Creation Advancing]]
 * [[Mechanics/Combat|Combat]]
 
 ## Playtest Species
@@ -34,3 +36,7 @@ Monsters in the world will also have card types, but a much more limited set bas
 Gear will also play an important part in the game. 
 
 I have not decided on a solid setting yet, which means I'm not sure if Modern or SciFi weaponry will be allowed, but I'm leaning on no. Magitech only probably.
+
+### Notes
+
+The Apocalypic event will likely be known as "The Drop" by most species. 
