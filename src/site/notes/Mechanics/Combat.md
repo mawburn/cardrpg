@@ -32,7 +32,7 @@ During the main action phase there are 3 types of actions. Attacking, Readying, 
    1. This includes effects that do not directly touch, harm, help, aid, move, or anything thereof to any other character in combat.
 2. Characters may retrieve items from storage if they are close to them.
    1. They may also hand or throw an item to another member of their group.
-3. [Fleeing](#fleeing), described below, counts in this action.
+3. [[Fleeing|Fleeing]], described below, counts in this action.
 
 ### 3 - Equipping
 
@@ -45,7 +45,7 @@ Unlike many games, where it is the attackers' job to score a bit, here their ski
 
 However, it is the Defenders job to succeed a saving throw to avoid this attack. The attackers' card will list the available types of saving throws allowed as well as the difficulty rating.
 
-This is performed **after all the attacker's actions have been declared and resolved**, unless otherwise specified by the card.
+This is performed **after all the attacker's actions have been declared and their turn is over**, unless otherwise specified by the card or a defender's card activates before their turn is completed.
 
 > [!Why]
 > This is meant to be part of the strategy for the attacker. They do not know which of their attacks will fail or succeed and must size up their opponent correctly. Otherwise they will fail and waste their cooldowns.
