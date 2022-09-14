@@ -3,11 +3,58 @@ body,
 .content {
   font-size: 16px;
   background: url("https://cdn.tabletop.media/bg.webp") repeat;
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
+  font-family: "Cabin", sans-serif;
+}
+
+.content {
+  max-width: 80ch;
 }
 
 a,
-a:any-link {
-  text-decoration: none !important;
-  color: #8f9fef !important;
+a:any-link,
+a.external-link,
+a.external-link:any-link,
+a.internal-link,
+a.internal-link:any-link {
+  text-decoration: none;
+  color: #8f9fef;
+}
+
+h1 {
+  color: #f0cfa8;
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.admonition {
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.5);
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);
+}
+
+.admonition-title {
+  font-weight: bolder;
+  color: #825ebd;
 }
