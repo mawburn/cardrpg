@@ -5,7 +5,7 @@
 
 # Skill Overview
 
-As stated in [[Mechanics/Character Creation Advancing|Character Creation Advancing]], players may assign a single die type to 1 attribute. So these skills are completely separated from [[Mechanics/Attributes|Attributes]]. They represent your character and their personal growth, not how good they are at fighting monsters or evil warlords.
+As stated in [[Character Creation Advancing | Character Creation & Advancing]], players may assign a single die type to 1 attribute. So these skills are completely separated from [[Mechanics/Attributes|Attributes]]. They represent your character and their personal growth, not how good they are at fighting monsters or evil warlords.
 
 Skills are more or less tags that represent your character and are meant for the RP aspects of the game only. Combat has its own rules and exists outside of the type of RP that would be useful for these skills.
 
@@ -25,6 +25,8 @@ That does not mean they can not have mechanical benefits within the fiction, how
 - Artist
 - Spiritual
 - Nurse
+
+This is not a final list, but the final list should be short and have role-playable redundancies for most skills. 
 
 ## Skill Tests
 
