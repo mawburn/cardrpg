@@ -30,7 +30,7 @@ This is not a final list, but the final list should be short and have role-playa
 
 ## Skill Tests
 
-The Game should decide how difficult it is for each task as the players encounter them. This takes some quick thinking, but shouldn't be too hard.
+The Game Master should decide how difficult it is for each task as the players encounter them. This takes some quick thinking, but shouldn't be too hard.
 
 If a player has no skill for a task, they simply can not do it. **However**, the exploding die rule is in effect here. This can allow a D4 to succeed at even the hardest task.
 
