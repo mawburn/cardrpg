@@ -47,11 +47,19 @@ h6 {
   font-family: "Ubuntu", sans-serif;
 }
 
+strong {
+  color: #f0cfa8;
+}
+
 .admonition {
   border: 2px solid rgba(255, 255, 255, 0.4);
   border-radius: 6px;
   background: rgba(0, 0, 0, 0.2);
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);
+  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.7);
+}
+
+.admonition p {
+  font-size: 1.1rem;
 }
 
 .admonition-title {
