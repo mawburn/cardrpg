@@ -6,14 +6,14 @@
 # Human Cards
 
 **Base Layout (hopefully)**
-- 50% Passive
-- 20% Moves
+- 45% Passive
+- 25% Moves
 - 20% Spells
 - 10% Modifiers
 
-Current (1-69)
-32% Passive
-17% Moves
+Current (1-78 + 100)
+42% Passive
+18% Moves
 11% Spells
 10% Modifiers
 
@@ -191,7 +191,24 @@ Current (1-69)
 * Requirements: Charisma 3
 * Type: Modifier
 
+## 70-74
 
+* Name: Fast
+* Bonus: Increase movment speed by 5 meters.
+* Type: Passive
+
+## 74-78
+
+* Name: Toughness
+* Bonus: Decrease physical saving throw requirement by 1.
+* Type: Passive
+
+## 100
+
+* Name: Quick Swap
+* Bonus: Swap cards in your build with cards from your equipped deck while in combat on your Attacking move.
+* Type: Move - Cooldown -> Able to swap 3 cards per day
+* **Legendary Card**
 
 ---
 
