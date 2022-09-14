@@ -34,7 +34,7 @@ During the main action phase there are 3 types of actions. Attacking, Readying, 
    1. If a character has multiple moves they may split them between enemies in any way they wish.
 2. If the character has no Card Moves that can cause damage the enemy, they may make an unarmed or armed attack.
 
-> [!info] Always Successful!
+> [!note] Always Successful!
 > This is a very important difference compared to what most people are used to. Attacks, Spells, Moves, etc. are ALWAYS successful. It's not the character doing it, it's the card and the card can't fail. 
 > 
 > However, it is up to the defender to avoid these attacks. _See [[Mechanics/Combat#Defense|#Defense]] below_.
@@ -60,7 +60,7 @@ However, it is the Defenders job to succeed a saving throw to avoid this attack.
 
 This is performed **after all the attacker's actions have been declared and their turn is over**, unless otherwise specified by the card or a defender's card activates before their turn is completed.
 
-> [!question] Why after the attacker finishes?
+> [!note] Why after the attacker finishes?
 > This is meant to be part of the strategy for the attacker. They do not know which of their attacks will fail or succeed and must size up their opponent correctly. Otherwise they will fail and waste their cooldowns. 
 > 
 > Combat is meant to be a strategic battle of managing card cooldowns, making combos, and coming up with unique uses for cards.
