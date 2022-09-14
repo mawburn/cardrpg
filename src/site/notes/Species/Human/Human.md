@@ -5,24 +5,25 @@
 
 # Human Definition
 
-## 1. Attributes
+Species will be defined by the [[Mechanics/Species Rules|Species Rules]] to make balance easier, since the intent is to have a lot of different playable Species.
 
-+1 Int
-+1 Cha
+| Name                 | Info                                                                                                           |
+| -------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Attributes           | +1 Intelligence <br/> +1 Charisma                                                                              |
+| Skills               | Merchant <br /> Laborer                                                                                        |
+| Movement             | 10 meters per turn                                                                                             |
+| Perk                 | Resolve: when at below 25% health, reduce saving throw by 1.                                                   |
+| Mechanical Hindrance | Low Str, Starts with -1 Str with a minimum of 1.                                                               |
+| RP Hindrance         | Untrustworthy, non-human species are untrustworthy of humans and humans suffer a -2 to their persuasion rolls. | 
 
-## Skills
+## Description
 
-1. Trade
-2. Work
+Humans are seen as untrustworthy and swindlers by many other species. One Gnoll Prince who asked to remain unamed said this about them:
 
-## Perk
+> They are conniving hairless apes that would sell their own pups for a couple cards.
 
-Resolve, when at below 25% health, gain +1 in any attribute temporarily.
+Which should say a lot coming from a Gnoll of all beings.
 
-## Mechanical Hindrance
+## History
 
-Low Str, -1 Str with a minimum of 1.
-
-## RP Hindrance
-
-Untrustworthy, non-human species are untrustworthy of humans and humans suffer a -2 to their persuasion rolls.
+Like many other species, The Drop was thrust upon the Humans in a flash. 
