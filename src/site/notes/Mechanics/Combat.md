@@ -5,6 +5,8 @@
 
 # Combat Flow
 
+## Initiative
+
 Initiative is drawn every new round by drawing from a normal poker deck of cards. Jokers always go first. If 2 players both draw Jokers, they can decide or roll a dice to see who goes first. If a player and an NPC both draw Jokers, the player always goes first.
 
 After all players and NPCs have gone, the round ends and new cards are drawn. If a Joker has been drawn then the deck is reshuffled before drawing new cards.
@@ -37,7 +39,7 @@ During the main action phase there are 3 types of actions. Attacking, Readying, 
 > [!note] Always Successful!
 > This is a very important difference compared to what most people are used to. Attacks, Spells, Moves, etc. are ALWAYS successful. It's not the character doing it, it's the card and the card can't fail. 
 > 
-> However, it is up to the defender to avoid these attacks. _See [[Mechanics/Combat#Defense|#Defense]] below_.
+> However, it is up to the defender to avoid these attacks. _See [[Mechanics/Combat#Defense|Defense]] below_.
 
 ### 2- Readying
 
