@@ -51,6 +51,8 @@ strong {
   color: #f0cfa8;
 }
 
+div.language-ad-note,
+div.callout-note,
 .admonition {
   border: 2px solid rgba(255, 255, 255, 0.4);
   border-radius: 6px;
@@ -66,4 +68,14 @@ strong {
   font-family: "Ubuntu", sans-serif;
   font-weight: bolder;
   color: #77a1d9;
+}
+
+div.language-ad-note .admonition-title,
+div.callout-note .admonition-title {
+  background-color: #77a1d9;
+  color: #222;
+
+  &::before {
+    content: "";
+  }
 }
