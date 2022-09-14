@@ -78,7 +78,7 @@ div.callout-note .admonition-title {
 
   &::before {
     font-family: "#{$icomoon-font-family}" !important;
-    content: $icon-info;
+    content: $icon-tip;
     color: #77a1d9;
   }
 }
