@@ -20,7 +20,7 @@ If you're reading this, then you are reading my raw notes published through an [
 ## Playtest Species
 
 * [[Species/Human/Human|Human]]
-	* [[Species/Human/Cards|Cards]]
+	* [[Species/Human/Cards|Species/Human/Cards]]
 
 Like cards, there are rules for how to build a speicies under [[Mechanics/Species Rules|Species Rules]].
 
