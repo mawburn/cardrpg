@@ -12,9 +12,9 @@
 - 20% Spells
 - 10% Modifiers
 
-Current (1-78 + 100)
+**Current (1-83 + 100)** - In Progress
 42% Passive
-18% Moves
+23% Moves
 11% Spells
 10% Modifiers
 
@@ -68,7 +68,7 @@ Current (1-78 + 100)
 
 ## 20-21
 
-- Name: Glamourous
+- Name: Glamorous
 - Rarity: Rare
 - Bonus: +1 Charisma per skill level
 - Requirements: _n/a_
@@ -134,7 +134,7 @@ Current (1-78 + 100)
 
 - Name: Free Runner
 - Rarity: Rare
-- Bonus: During the move action, the player may move over obstacles, climb, and even along up to 90° walls but must end the move action on a solid surface
+- Bonus: During the move action, the player may move over obstacles, climb, and even along up to 90° walls but must end the move action on a solid surface.
 - Requirements: _n/a_
 - Type: Move - Cooldown -> 5 Rounds
 
@@ -156,9 +156,9 @@ Current (1-78 + 100)
 
 ## 50-52
 
-- Name: Ripost
+- Name: Riposte
 - Rarity: Uncommon
-- Bonus: While weilding any weapon, the character may strike back at a failed attack if the enemy making the attack is within range.
+- Bonus: While wielding any weapon, the character may strike back at a failed attack if the enemy making the attack is within range.
 - Requirements: Dexterity 2
 - Type: Move - Cooldown -> 1 Round
 
@@ -166,7 +166,7 @@ Current (1-78 + 100)
 
 - Name: Get back here
 - Rarity: Rare
-- Bonus: If weilding a melee weapon, strike an enemy trying to disengage from melee combat. If successful, the enemy does not disengage.
+- Bonus: If wielding a melee weapon, strike an enemy trying to disengage from melee combat. If successful, the enemy does not disengage.
 - Requirements: Dexterity 4
 - Type: Move - Cooldown -> 3 Rounds
 
@@ -174,7 +174,7 @@ Current (1-78 + 100)
 
 - Name: Striker
 - Rarity: Very Rare
-- Bonus: If weilding a weapon, one of 2 things can happen.
+- Bonus: If wielding a weapon, one of 2 things can happen.
   - If the character's Strength is higher than their Dexterity, deal +4 damage on a hit with a weapon.
   - If the character's Dexterity is higher than their Strength, strike 3 times at once
 - Requirements: Strength 2 or Dexterity 2
@@ -216,7 +216,7 @@ Current (1-78 + 100)
 
 - Name: Mage
 - Rarity: Very Rare
-- Bonus: Increase the damage of any damage spell by 50% rounded up. For example if the character casts a spell that does 5 damage, then they do 8 instead.
+- Bonus: Increase the damage of any spell by 50% rounded up. For example, if the character casts a spell that does 5 damage, then they do 8 instead.
 - Requirements: Intelligence 4
 - Type: Modifier
 
@@ -232,7 +232,7 @@ Current (1-78 + 100)
 
 - Name: Royalty
 - Rarity: Very Rare
-- Bonus: Reduce the result of the enemey's mental saving throw by 2.
+- Bonus: Reduce the result of the enemy's mental saving throw by 2.
 - Requirements: Charisma 3
 - Type: Modifier
 
@@ -240,7 +240,7 @@ Current (1-78 + 100)
 
 - Name: Fast
 - Rarity: Common
-- Bonus: Increase movment speed by 5 meters.
+- Bonus: Increase movement speed by 5 meters.
 - Requirements: _n/a_
 - Type: Passive
 
@@ -252,6 +252,30 @@ Current (1-78 + 100)
 - Requirements: _n/a_
 - Type: Passive
 
+## 79-81
+
+* Name: Rush
+* Rarity: Uncommon
+* Bonus: Rush forward up to move distance remaining, increasing melee damage by 1 per 2 meters covered. Your next physical or evade saving throw is increased by 2 as well.
+* Requirement: Melee weapon or shield equipped.
+* Type: Move - Cooldown -> 10 rounds
+
+## 82-83
+
+* Name: Leg sweep
+* Rarity: Rare
+* Bonus: Sweep the enemy's legs from under them, reducing their move speed during their next turn by half.
+* Requirements: Strength 3 & Dexterity 2
+* Type: Move - Cooldown -> 4 rounds
+
+## 84
+
+* Name: Disarm
+* Rarity: Very Rare
+* Bonus: Knock the weapon from the enemy's hand(s) if within melee range.
+* Requirements: Strength 4 & Dexterity 4
+* Type: Move - Cooldown -> 3 rounds
+
 ## 100
 
 - Name: Quick Swap
@@ -262,4 +286,4 @@ Current (1-78 + 100)
 
 ---
 
-TBD to 100
+TBD to 1-100
