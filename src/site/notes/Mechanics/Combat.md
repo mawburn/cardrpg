@@ -18,7 +18,7 @@ After all players and NPCs have gone, the round ends and new cards are drawn. If
 
 ## Actions
 
-During the main action phase there are 3 groups of actions. Attacking, Readying, or Changing Cards. Characters may only perform 1 type.
+During the main action phase there are 3 types of actions. Attacking, Readying, or Equiping. Characters may only perform 1 type.
 
 ### 1 - Attacking
 
@@ -34,7 +34,7 @@ During the main action phase there are 3 groups of actions. Attacking, Readying,
    1. They may also hand or throw an item to another member of their group.
 3. [Fleeing](#fleeing), described below, counts in this action.
 
-### 3 - Change Cards in Equipped Deck
+### 3 - Equipping
 
 1. The player may not perform any action, other than free actions, if they choose to change, modify, or replace their deck
    1. Passive abilities are also inert while this action is being performed, except for stat modifiers in regards to equipping the new cards, but all passives are regained as soon as the character's turn ends. (Note: not the end of the round, the end of the player's turn)
