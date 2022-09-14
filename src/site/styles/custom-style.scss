@@ -4,9 +4,14 @@ html,
 body,
 .content {
   font-size: 16px;
-  background: url("https://cdn.tabletop.media/bg.webp") repeat;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.9);
   font-family: "Cabin", sans-serif;
+  -webkit-overflow-scrolling: touch;
+}
+
+html,
+body {
+  background: #222 url("https://cdn.tabletop.media/bg.webp") repeat;
 }
 
 .content {
