@@ -77,7 +77,8 @@ div.callout-note .admonition-title {
   background-color: transparent;
 
   &::before {
-    content: "\f05a";
+    font-family: "#{$icomoon-font-family}" !important;
+    content: $icon-info;
     color: #77a1d9;
   }
 }
