@@ -1,3 +1,5 @@
+@import "variables";
+
 html,
 body,
 .content {
@@ -75,6 +77,7 @@ div.callout-note .admonition-title {
   background-color: transparent;
 
   &::before {
-    content: "";
+    content: "\f05a";
+    color: #77a1d9;
   }
 }
