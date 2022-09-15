@@ -19,7 +19,7 @@ body.markdown-preview-view {
 }
 
 .content {
-  max-width: 80ch;
+  max-width: 70ch;
 }
 
 a,
@@ -65,6 +65,8 @@ strong {
 div.language-ad-note,
 div.callout-note,
 .admonition {
+  max-width: 60ch;
+  margin: 1rem auto;
   border: 2px solid rgba(255, 255, 255, 0.4);
   border-radius: 6px;
   background: rgba(0, 0, 0, 0.2);
