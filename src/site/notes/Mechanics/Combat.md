@@ -56,7 +56,7 @@ During the main action phase, there are 3 types of actions. Attacking, Readying,
    1. This includes effects that do not directly touch, harm, help, aid, move, or anything thereof to any other character in combat.
 2. Characters may retrieve items from storage if they are close to them.
    1. They may also hand or throw an item to another member of their group.
-3. [[Fleeing|Fleeing]], described below, counts in this action.
+3. [[Mechanics/Combat#Fleeing|Fleeing]], described below, counts in this action.
 
 ### 3 - Swapping
 
