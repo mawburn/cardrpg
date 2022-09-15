@@ -14,10 +14,10 @@
 
 | Name     | Info                                                                                           |
 | -------- | ---------------------------------------------------------------------------------------------- |
-| Passive  | Always active, except during                                                                   |
+| Passive  | Always active, except during the Swapping action                                                                  |
 | Modifier | Should modify something else, but not give an effect directly                                  |
-| Move     | Should have a round cooldown <br /> Usually have requirements                                  |
-| Spell    | Should have a round cooldown & damage higher than a Move <br /> Almost always has requirements | 
+| Move     | Should usually have a cooldown <br /> Usually have requirements                                  |
+| Spell    | Almost always has a cooldown & damage higher than a Move <br /> Almost always has requirements | 
 
 ## Card Rarity
 
