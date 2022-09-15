@@ -19,6 +19,14 @@ This seems like a good number to allow for a lot of flexibility as far as how a 
 
 Cards will probably also act as currency, be upgradable, and evolvable, as to not build up too many. This is still _TBD_.
 
+#### Possible Names
+* Card Pouch - Stores cards infinitely
+* Card Case - Stores a certain number of cards
+* Card Sack - Stores cards infinitely
+* ???
+
+Cards will not count as being "stored" with regard to other rules, unless the player actually chooses to store them in another place.
+
 ## Free Actions
 
 1. Characters can move their full movement during their turn, split into any number of incremental movements they want, unless otherwise specified by a card.
