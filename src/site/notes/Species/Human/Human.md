@@ -5,16 +5,16 @@
 
 # Human Definition
 
-Species will be defined by the [[Mechanics/Species Rules|Species Rules]] to make balance easier, since the intent is to have a lot of different playable Species.
+Species will be defined by the [[Mechanics/Species Rules|Species Rules]] make balance easier, since the intent is to have a lot of different playable Species.
 
-| Name                 | Info                                                                                                           |
-| -------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Attributes           | +1 Intelligence <br/> +1 Charisma                                                                              |
-| Skills               | Merchant <br /> Laborer                                                                                        |
-| Movement             | 10 meters per turn                                                                                             |
-| Perk                 | Resolve: when at below 25% health, reduce saving throw by 1.                                                   |
-| Mechanical Hindrance | Low Str, Starts with -1 Str with a minimum of 1.                                                               |
-| RP Hindrance         | Untrustworthy, non-human species are untrustworthy of humans and humans suffer a -2 to their persuasion rolls. | 
+| Name  | Info |
+ |---|---|
+ | Attributes | +1 Intelligence<br/>+1 Charisma |
+| Skills | Merchant<br/>Laborer | 
+| Movement | 10 meters per turn |
+| Perk | Resolve: when at below 25% health, reduce saving throw by 1. |
+| Mechanical Hindrance | Low Str, Starts with -1 Str with a minimum of 1. |
+| RP Hindrance |Untrustworthy, non-human species are untrustworthy of humans and humans suffer a -2 to their persuasion rolls.|
 
 ## Description
 
@@ -26,4 +26,4 @@ Which should say a lot coming from a Gnoll of all beings.
 
 ## History
 
-Like many other species, The Drop was thrust upon the Humans in a flash. 
+Like many other species, The Drop was thrust upon the Humans in a flash.
